@@ -1,0 +1,6 @@
+id=device_level_changer
+name=Balanced Mid-Range
+version=1.2
+versionCode=120
+author=@Tsukiinome
+description=Cambia deviceLevelList y configuraciones de animación automáticamente
