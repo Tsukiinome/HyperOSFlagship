@@ -6,7 +6,8 @@
 Ajusta automáticamente los valores de las animaciones de Android para tener las mejores animaciones y no perder rendimiento.
 
 📱 Device Level Spoofing
-Modifica el devicelevellist.xml para que tu teléfono sea identificado como gama media y gama alta
+Modifica el devicelevellist.xml para que tu teléfono sea identificado como gama media ó gama alta
+mediante la selección del usuario al instalar el módulo.
 Ofrece una experiencia fluida con la mayoría de los efectos visuales habilitados.
 
 
